@@ -1,0 +1,57 @@
+[
+  {
+    "firstname": "firstname 0",
+    "middlename": "middlename 0",
+    "lastname": "lastname 0",
+    "phoneMobile": "+79181234560",
+    "emailOne": "testmail0@mail.test",
+    "bday": "-",
+    "bmonth": "-",
+    "photo": "src\\test\\resources\\Batman.jpg",
+    "groups": []
+  },
+  {
+    "firstname": "firstname 1",
+    "middlename": "middlename 1",
+    "lastname": "lastname 1",
+    "phoneMobile": "+79181234561",
+    "emailOne": "testmail1@mail.test",
+    "bday": "-",
+    "bmonth": "-",
+    "photo": "src\\test\\resources\\Batman.jpg",
+    "groups": []
+  },
+  {
+    "firstname": "firstname 2",
+    "middlename": "middlename 2",
+    "lastname": "lastname 2",
+    "phoneMobile": "+79181234562",
+    "emailOne": "testmail2@mail.test",
+    "bday": "-",
+    "bmonth": "-",
+    "photo": "src\\test\\resources\\Batman.jpg",
+    "groups": []
+  },
+  {
+    "firstname": "firstname 3",
+    "middlename": "middlename 3",
+    "lastname": "lastname 3",
+    "phoneMobile": "+79181234563",
+    "emailOne": "testmail3@mail.test",
+    "bday": "-",
+    "bmonth": "-",
+    "photo": "src\\test\\resources\\Batman.jpg",
+    "groups": []
+  },
+  {
+    "firstname": "firstname 4",
+    "middlename": "middlename 4",
+    "lastname": "lastname 4",
+    "phoneMobile": "+79181234564",
+    "emailOne": "testmail4@mail.test",
+    "bday": "-",
+    "bmonth": "-",
+    "photo": "src\\test\\resources\\Batman.jpg",
+    "groups": []
+  }
+]

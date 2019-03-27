@@ -1,0 +1,57 @@
+<list>
+  <contact>
+    <firstname>firstname 0</firstname>
+    <middlename>middlename 0</middlename>
+    <lastname>lastname 0</lastname>
+    <phoneMobile>+79181234560</phoneMobile>
+    <emailOne>testmail0@mail.test</emailOne>
+    <bday>-</bday>
+    <bmonth>-</bmonth>
+    <photo>src\test\resources\Batman.jpg</photo>
+    <groups/>
+  </contact>
+  <contact>
+    <firstname>firstname 1</firstname>
+    <middlename>middlename 1</middlename>
+    <lastname>lastname 1</lastname>
+    <phoneMobile>+79181234561</phoneMobile>
+    <emailOne>testmail1@mail.test</emailOne>
+    <bday>-</bday>
+    <bmonth>-</bmonth>
+    <photo>src\test\resources\Batman.jpg</photo>
+    <groups/>
+  </contact>
+  <contact>
+    <firstname>firstname 2</firstname>
+    <middlename>middlename 2</middlename>
+    <lastname>lastname 2</lastname>
+    <phoneMobile>+79181234562</phoneMobile>
+    <emailOne>testmail2@mail.test</emailOne>
+    <bday>-</bday>
+    <bmonth>-</bmonth>
+    <photo>src\test\resources\Batman.jpg</photo>
+    <groups/>
+  </contact>
+  <contact>
+    <firstname>firstname 3</firstname>
+    <middlename>middlename 3</middlename>
+    <lastname>lastname 3</lastname>
+    <phoneMobile>+79181234563</phoneMobile>
+    <emailOne>testmail3@mail.test</emailOne>
+    <bday>-</bday>
+    <bmonth>-</bmonth>
+    <photo>src\test\resources\Batman.jpg</photo>
+    <groups/>
+  </contact>
+  <contact>
+    <firstname>firstname 4</firstname>
+    <middlename>middlename 4</middlename>
+    <lastname>lastname 4</lastname>
+    <phoneMobile>+79181234564</phoneMobile>
+    <emailOne>testmail4@mail.test</emailOne>
+    <bday>-</bday>
+    <bmonth>-</bmonth>
+    <photo>src\test\resources\Batman.jpg</photo>
+    <groups/>
+  </contact>
+</list>
