@@ -1,4 +1,4 @@
-package ru.stqa.pft.addressbook.tests.groups;
+package template.tests.groups;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -7,7 +7,7 @@ import org.hibernate.boot.registry.StandardServiceRegistry;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import ru.stqa.pft.addressbook.model.GroupData;
+import template.model.GroupData;
 
 import java.util.List;
 

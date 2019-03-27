@@ -1,4 +1,4 @@
-package ru.stqa.pft.addressbook.model;
+package template.model;
 
 import com.google.common.collect.ForwardingSet;
 

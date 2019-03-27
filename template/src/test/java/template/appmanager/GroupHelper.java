@@ -1,10 +1,10 @@
-package ru.stqa.pft.addressbook.appmanager;
+package template.appmanager;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import ru.stqa.pft.addressbook.model.GroupData;
-import ru.stqa.pft.addressbook.model.Groups;
+import template.model.GroupData;
+import template.model.Groups;
 
 import java.util.List;
 

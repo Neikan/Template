@@ -1,15 +1,15 @@
-package ru.stqa.pft.addressbook.tests.contacts;
+package template.tests.contacts;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.thoughtworks.xstream.XStream;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
-import ru.stqa.pft.addressbook.model.ContactData;
-import ru.stqa.pft.addressbook.model.Contacts;
-import ru.stqa.pft.addressbook.model.GroupData;
-import ru.stqa.pft.addressbook.model.Groups;
-import ru.stqa.pft.addressbook.tests.TestBase;
+import template.model.ContactData;
+import template.model.Contacts;
+import template.model.GroupData;
+import template.model.Groups;
+import template.tests.TestBase;
 
 import java.io.BufferedReader;
 import java.io.File;

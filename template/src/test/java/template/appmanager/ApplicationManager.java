@@ -1,4 +1,4 @@
-package ru.stqa.pft.addressbook.appmanager;
+package template.appmanager;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Capabilities;
